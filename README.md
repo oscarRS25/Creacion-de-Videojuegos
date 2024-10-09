@@ -6,12 +6,12 @@
 
 1. [Prototipo 1](https://github.com/oscarRS25/Creacion-de-Videojuegos/tree/main/Prototipo1)
     - [Proyecto](https://github.com/oscarRS25/Creacion-de-Videojuegos/blob/main/Prototipo1/Prototipo1_Oscar_Adahir_Rojas_Sanchez.unitypackage)
-2. [Prototipo 2]([https://link-al-prototipo2.com](https://github.com/oscarRS25/Creacion-de-Videojuegos/tree/main/Prototipo2))
-    - [Proyecto](https://link-al-proyecto2.com)
-    - [Capturas de pantalla](https://link-a-capturas2.com)
-3. [Prototipo 3](https://link-al-prototipo3.com)
-    - [Proyecto](https://link-al-proyecto3.com)
-    - [Capturas de pantalla](https://link-a-capturas3.com)
+2. [Prototipo 2](https://github.com/oscarRS25/Creacion-de-Videojuegos/tree/main/Prototipo2)
+    - [Proyecto](https://github.com/oscarRS25/Creacion-de-Videojuegos/blob/main/Prototipo2/Prototipo2_Oscar_Adahir_Rojas_Sanchez.unitypackage)
+    - [Capturas de pantalla](https://github.com/oscarRS25/Creacion-de-Videojuegos/blob/main/Prototipo2/Pr%C3%A1ctica2_Oscar_Adahir_Rojas_Sanchez.pdf)
+3. [Prototipo 3](https://github.com/oscarRS25/Creacion-de-Videojuegos/tree/main/Prototipo3)
+    - [Proyecto](https://github.com/oscarRS25/Creacion-de-Videojuegos/blob/main/Prototipo3/Prototipo3_Oscar_Adahir_Rojas_S%C3%A1nchez.unitypackage)
+    - [Capturas de pantalla](https://github.com/oscarRS25/Creacion-de-Videojuegos/blob/main/Prototipo3/Prototipo3_Oscar_Adahir_Rojas_S%C3%A1nchez.pdf)
 
 ---
 
