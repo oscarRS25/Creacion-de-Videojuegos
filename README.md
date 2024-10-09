@@ -14,6 +14,17 @@
 - [Autores](#autores)
 - [Copyright](#copyright)
 
+## Introducción
+
+- Nombre del proyecto
+- Objetivo.
+- Plataforma ,Género, Clasificación, Personajes, Escenario.
+- Historia
+- Personajes
+- Reglas de Juego.
+- Pantallas de Juego
+- Plan de creación de VideoJuego.
+
 ## Código Fuente
 
  * [Prototipo 1](https://github.com/oscarRS25/Creacion-de-Videojuegos/tree/main/Prototipo1)
@@ -25,6 +36,12 @@
    * > [Proyecto](https://github.com/oscarRS25/Creacion-de-Videojuegos/blob/main/Prototipo3/Prototipo3_Oscar_Adahir_Rojas_S%C3%A1nchez.unitypackage)
    * > [Capturas de pantalla](https://github.com/oscarRS25/Creacion-de-Videojuegos/blob/main/Prototipo3/Prototipo3_Oscar_Adahir_Rojas_S%C3%A1nchez.pdf)
 
----
+## Planificación
 
-¡Prepárate para desbloquear tu creatividad y llevar tus ideas al siguiente nivel!
+![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
+
+## Autores
+Oscar Adahir Rojas Sánchez & José Manuel Martínez García
+
+## Copyright
+Derechos Reservados 2024
