@@ -12,7 +12,7 @@
 
 - [🎬 Introducción](#introducción)
 - [💻 Código Fuente](#código-fuente)
-- [🗺️ Planificación](#planificación)
+- [🗺️ Planificación](#%EF%B8%8Fplanificación)
 - [👾 Autores](#autores)
 - [⚖️ Copyright](#%EF%B8%8Fcopyright)
 
