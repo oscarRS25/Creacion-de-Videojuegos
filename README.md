@@ -10,7 +10,7 @@
 
 ## 📜 **Contenido**
 
-- [🎬 Introducción](#🎬-Introducción)
+- [🎬 Introducción](#Introducción)
 - [💻 Código Fuente](#💻-código-fuente)
 - [🗺️ Planificación](#🗺️-planificación)
 - [👾 Autores](#👾-autores)
@@ -18,7 +18,7 @@
 
 ---
 
-## 🎬 **Introducción**
+## **Introducción**
 
 ¡Prepárate para el **modo historia**! En esta sección se describen los elementos esenciales de tu videojuego:
 
