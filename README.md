@@ -1,7 +1,7 @@
 # 🎮 Creación de Videojuegos
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/8560750/195950148-0c0df38e-5f96-45ae-87c3-6922738c612d.jpg" alt="Logo" width=1200 height=300>
+    <img src="https://github.com/user-attachments/assets/dc0f1819-2077-46e9-b568-0913d15ce752" alt="Logo" width=1200 height=400>
 </p>
 
 ¡Bienvenidos a mi repositorio! Este curso está diseñado para sumergirse en el emocionante mundo de la creación de videojuegos. El objetivo es aprender desde los conceptos básicos hasta técnicas avanzadas, para que puedas llevar tus ideas a la vida y crear experiencias inolvidables para los jugadores.
@@ -33,8 +33,10 @@
   * > [Proyecto](https://github.com/oscarRS25/Creacion-de-Videojuegos/blob/main/Prototipo2/Prototipo2_Oscar_Adahir_Rojas_Sanchez.unitypackage)
   * > [Capturas de pantalla](https://github.com/oscarRS25/Creacion-de-Videojuegos/blob/main/Prototipo2/Pr%C3%A1ctica2_Oscar_Adahir_Rojas_Sanchez.pdf)
  * [Prototipo 3](https://github.com/oscarRS25/Creacion-de-Videojuegos/tree/main/Prototipo3)
-   * > [Proyecto](https://github.com/oscarRS25/Creacion-de-Videojuegos/blob/main/Prototipo3/Prototipo3_Oscar_Adahir_Rojas_S%C3%A1nchez.unitypackage)
-   * > [Capturas de pantalla](https://github.com/oscarRS25/Creacion-de-Videojuegos/blob/main/Prototipo3/Prototipo3_Oscar_Adahir_Rojas_S%C3%A1nchez.pdf)
+   * > [Proyecto parte 1](https://github.com/oscarRS25/Creacion-de-Videojuegos/blob/main/Prototipo3/Prototipo3_P1_Oscar_Adahir_Rojas_S%C3%A1nchez.unitypackage)
+   * > [Capturas de pantalla parte 1](https://github.com/oscarRS25/Creacion-de-Videojuegos/blob/main/Prototipo3/Prototipo3_P1_Oscar_Adahir_Rojas_S%C3%A1nchez.pdf)
+   * > [Proyecto parte 2](https://github.com/oscarRS25/Creacion-de-Videojuegos/blob/main/Prototipo3/Prototipo3_P2_Oscar_Adahir_Rojas_S%C3%A1nchez.unitypackage)
+   * > [Capturas de pantalla parte 2](https://github.com/oscarRS25/Creacion-de-Videojuegos/blob/main/Prototipo3/Prototipo3_P2_Oscar_Adahir_Rojas_S%C3%A1nchez.pdf) 
 
 ## Planificación
 
