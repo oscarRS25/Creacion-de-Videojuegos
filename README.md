@@ -1,4 +1,4 @@
-# 🎮 **Creación de Videojuegos**
+# **🎮Creación de Videojuegos**
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/82ee8bd9-d48e-4c22-b7a7-18a416acdaa9" alt="Logo">
@@ -8,13 +8,13 @@
 
 ---
 
-## 📜 **Contenido**
+## **📜Contenido**
 
 - [🎬 Introducción](#introducción)
-- [💻 Código Fuente](#💻-código-fuente)
-- [🗺️ Planificación](#🗺️-planificación)
-- [👾 Autores](#👾-autores)
-- [⚖️ Copyright](#⚖️-copyright)
+- [💻 Código Fuente](#código-fuente)
+- [🗺️ Planificación](#planificación)
+- [👾 Autores](#autores)
+- [⚖️ Copyright](#copyright)
 
 ---
 
@@ -33,7 +33,7 @@
 
 ---
 
-## 💻 **Código Fuente**
+## **💻Código Fuente**
 
 Explora los **prototipos** que hemos creado hasta ahora:
 
@@ -50,18 +50,18 @@ Explora los **prototipos** que hemos creado hasta ahora:
 
 ---
 
-## 🗺️ **Planificación**
+## **🗺️Planificación**
 
 En esta sección iremos **subiendo de nivel** con la planificación detallada del desarrollo del videojuego. 📝🎮
 
 ---
 
-## 👾 **Autores**
+## **👾Autores**
 
 Oscar Adahir Rojas Sánchez & José Manuel Martínez García
 
 ---
 
-## ⚖️ **Copyright**
+## **⚖️Copyright**
 
 Derechos Reservados 2024 🛡️
