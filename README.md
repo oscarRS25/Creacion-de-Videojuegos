@@ -14,7 +14,7 @@
 - [💻 Código Fuente](#código-fuente)
 - [🗺️ Planificación](#planificación)
 - [👾 Autores](#autores)
-- [⚖️ Copyright](#copyright)
+- [⚖️ Copyright](#%EF%B8%8Fcopyright)
 
 ---
 
