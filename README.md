@@ -95,8 +95,9 @@ Explora los **prototipos** que hemos creado hasta ahora:
 ---
 
 ## **🗺️Planificación**
+![Planificación](https://github.com/user-attachments/assets/880bd8b2-2f96-4dee-a645-2705bd702334)
 
-En esta sección iremos **subiendo de nivel** con la planificación detallada del desarrollo del videojuego. 📝🎮
+
 
 ---
 
