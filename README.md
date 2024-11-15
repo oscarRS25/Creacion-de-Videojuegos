@@ -69,11 +69,11 @@ Ahora, es tu turno de guiar a Arden en esta épica aventura. ¿Podrás ayudarle 
 - **Monstruos NPC:** 👾 Criaturas que habitan el abismo, sirvientes de Kharok y los subjefes.
 
 #### 🎮Reglas de Juego
-- ❤️ Solo se cuenta con 3 corazones; si recibes suficiente daño, deberás reiniciar desde el primer nivel.
+- ❤️ Se cuenta con una barra de vida, si esta llega a 0 deberás reiniciar desde el primer nivel.
 - ⚔️ Para avanzar de nivel es necesario derrotar a todos los enemigos.
 - ⚠️ No tocar las trampas, ya que pueden ocasionar daño o incluso la muerte.
 - 👾 Los enemigos derrotados no reaparecen en el nivel.
-- 🎒 Los objetos encontrados mejoran vida, magia o nivel de ataque.
+- 🎒 Los objetos encontrados mejoran vida, puntuación o nivel de ataque.
   
 ---
 
@@ -91,6 +91,15 @@ Explora los **prototipos** que hemos creado hasta ahora:
    * > [Capturas de pantalla parte 1](https://github.com/oscarRS25/Creacion-de-Videojuegos/blob/main/Prototipo3/Prototipo3_P1_Oscar_Adahir_Rojas_S%C3%A1nchez.pdf)
    * > [Proyecto parte 2](https://github.com/oscarRS25/Creacion-de-Videojuegos/blob/main/Prototipo3/Prototipo3_P2_Oscar_Adahir_Rojas_S%C3%A1nchez.unitypackage)
    * > [Capturas de pantalla parte 2](https://github.com/oscarRS25/Creacion-de-Videojuegos/blob/main/Prototipo3/Prototipo3_P2_Oscar_Adahir_Rojas_S%C3%A1nchez.pdf)
+   * > [Proyecto parte 3](https://github.com/oscarRS25/Creacion-de-Videojuegos/blob/main/Prototipo3/Prototipo3_P3_Oscar_Adahir_Rojas_S%C3%A1nchez.unitypackage)
+   * > [Capturas de pantalla parte 3](https://github.com/oscarRS25/Creacion-de-Videojuegos/blob/main/Prototipo3/Prototipo3_P3_Oscar_Adahir_Rojas_S%C3%A1nchez.pdf)
+   * > [Proyecto parte 4](https://github.com/oscarRS25/Creacion-de-Videojuegos/blob/main/Prototipo3/Prototipo3_P4_Oscar_Adahir_Rojas_S%C3%A1nchez.unitypackage)
+   * > [Capturas de pantalla parte 4](https://github.com/oscarRS25/Creacion-de-Videojuegos/blob/main/Prototipo3/Prototipo3_P4_Oscar_Adahir_Rojas_S%C3%A1nchez.pdf)
+   * > [Proyecto parte 5](https://github.com/oscarRS25/Creacion-de-Videojuegos/blob/main/Prototipo3/Prototipo3_P5_Oscar_Adahir_Rojas_S%C3%A1nchez.unitypackage)
+   * > [Capturas de pantalla parte 5](https://github.com/oscarRS25/Creacion-de-Videojuegos/blob/main/Prototipo3/Prototipo3_P5_Oscar_Adahir_Rojas_S%C3%A1nchez.pdf)
+   * > [Proyecto parte 6](https://github.com/oscarRS25/Creacion-de-Videojuegos/blob/main/Prototipo3/Prototipo3_P6_Oscar_Adahir_Rojas_S%C3%A1nchez.unitypackage)
+   * > [Capturas de pantalla parte 6](https://github.com/oscarRS25/Creacion-de-Videojuegos/blob/main/Prototipo3/Prototipo3_P6_Oscar_Adahir_Rojas_S%C3%A1nchez.pdf)
+ * [Videojuego Dark Dungeons](https://github.com/oscarRS25/Dark-Dungeons-Game)
 
 ---
 

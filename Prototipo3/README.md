@@ -1,2 +1,2 @@
 # Prototipo 3
-![image](https://github.com/user-attachments/assets/07b31bb5-7715-4a75-b661-a53299e89d78)
+![image](https://github.com/user-attachments/assets/9abcf78c-1c84-4aca-8485-6b98c0d2d7fa)
