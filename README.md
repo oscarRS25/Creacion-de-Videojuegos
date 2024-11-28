@@ -44,21 +44,21 @@ Ahora, es tu turno de guiar a Arden en esta épica aventura. ¿Podrás ayudarle 
 #### 🌍Escenario
 ##### 🏰Niveles
 - **Nivel 1: Mazmorra de Iniciación**
-  - **Terreno:** 🧱 Paredes de piedra, enemigos básicos y trampas simples.
-  - **Decoración:** 🔥 Antorchas, huesos de antiguos aventureros.
+  - **Terreno:** 🧱 Paredes de piedra, piso de tierra, escaleras, estos color morado enemigos básicos.
+  - **Decoración:** 🔥 Columnas, fuentes de lava, cajas y tuberías de ácido.
   - **Subjefe:** 🛡️ Anuel
 - **Nivel 2: Mazmorra Infestada**
-  - **Terreno:** ☠️ Trampas de veneno, vegetación oscura, enemigos más fuertes, la mazmorra tiende a ser más oscura y siniestra.
-  - **Decoración:** 🧪 Charcos venenosos, lianas oscuras.
+  - **Terreno:** 🧱 Paredes de piedra, piso de tierra escaleras, estos color morado, enemigos más fuertes.
+  - **Decoración:** 🔥 Columnas, fuentes de lava y tuberías de ácido.
   - **Subjefe:** ⚔️ Endrick.
 - **Nivel 3: Mazmorra de Fuego**
-  - **Terreno:** 🌋 Lava burbujeante, trampas mortales y enemigos letales.
-  - **Decoración:** 🔥 Ríos de lava, columnas de fuego.
+  - **Terreno:** 🧱 Paredes de piedra, piso de tierra, escaleras, estos color morado, enemigo final.
+  - **Decoración:** 🔥 Columnas, fuentes de lava, antorchas y tuberías de ácido.
   - **Jefe Final:** 💀 Kharok.
 
 ##### 🎒Objetos
-- **🧪 Pociones de salud:** Recupera puntos de vida.
-- **✨ Pociones de mana:** Recupera puntos de energía mágica.
+- **🧪 Mejoras de salud:** Recupera puntos de vida.
+- **🎁 Cofres:** Otorgan score aleatorio..
 - **⚔️ Mejoras de ataque:** Aumenta el daño de ataque de Arden.
 
 #### 🧙‍♂️Personajes
@@ -69,11 +69,12 @@ Ahora, es tu turno de guiar a Arden en esta épica aventura. ¿Podrás ayudarle 
 - **Monstruos NPC:** 👾 Criaturas que habitan el abismo, sirvientes de Kharok y los subjefes.
 
 #### 🎮Reglas de Juego
-- ❤️ Se cuenta con una barra de vida, si esta llega a 0 deberás reiniciar desde el primer nivel.
-- ⚔️ Para avanzar de nivel es necesario derrotar a todos los enemigos.
+- ❤️ Se cuenta con una barra de vida, con capacidad máxima de 100 si esta llega a 0 deberás reiniciar desde el primer nivel.
+- ⚔️ Para avanzar de nivel es necesario derrotar a todos los enemigos y atravesar el portal.
 - ⚠️ No tocar las trampas, ya que pueden ocasionar daño o incluso la muerte.
 - 👾 Los enemigos derrotados no reaparecen en el nivel.
-- 🎒 Los objetos encontrados mejoran vida, puntuación o nivel de ataque.
+- 🛡️ Cada enemigo derrotado otorga un distinto score.
+- 🎒 En el camino puedes encontrar objetos que restablecen vida, mejoran tu ataque o aumentan tu score, estos ayudarán durante la travesía.
   
 ---
 
